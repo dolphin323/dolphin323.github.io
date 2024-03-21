@@ -34,8 +34,14 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import rebels from "./rebels.png";
+import fullstack from "./fullstack.webp";
+import academy_hat from "./academy_hat.png";
+import teacher from "./teacher.png";
 
 export {
+  teacher,
+  academy_hat,
+  fullstack,
   rebels,
   logo,
   backend,

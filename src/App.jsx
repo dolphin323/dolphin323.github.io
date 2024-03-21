@@ -14,17 +14,17 @@ import Yelizaveta_Brus_Resume from "./assets/Yelizaveta_Brus_Resume.pdf";
 
 const App = () => {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <div className="relative z-0 bg-primary">
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
           <Hero />
         </div>
-        <About />
         <div className="relative z-0">
-          <Experience />
+          <About />
           <StarsCanvas />
         </div>
+        <Experience />
       </div>
     </BrowserRouter>
   );
