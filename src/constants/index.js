@@ -70,6 +70,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "September 2023 — Present",
     points: [
+      "Accepted poster in IEEE VIS 2024 'Scholarly Exploration via Conversations with Scholars-Papers Embedding'",
       "Work on the characterization of repeated builds in CI using feature engineering and regression modeling.",
       "Evaluate usage of LLMs for vulnerability detection in Android. The arxiv: Leverage Large Language Models for Vulnerability Detection",
     ],
